@@ -233,19 +233,19 @@ http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f6712
 http://play.cbalive.weibisai.com/live/3738205416028061_AiHD.m3u8?txSecret=5d3007e91c1c87632e5653a853960a10&txTime=6737D270
 #EXTINF:-1 tvg-id="羽球直播" tvg-name="羽球直播" tvg-logo="https://codeberg.org/labubu/myicons/raw/branch/main/中国羽协.png" group-title="体育频道",日本赛4号
 http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
-#EXTINF:-1 group-title="其他频道" tvg-name="desire"
+#EXTINF:-1 tvg-name="desire" group-title="其他频道",disire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="brazzers"
+#EXTINF:-1 tvg-name="brazzers" group-title="其他频道",brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="dorcel"
+#EXTINF:-1 tvg-name="dorcel" group-title="其他频道",dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="eroxxx"
+#EXTINF:-1 tvg-name="eroxxx" group-title="其他频道",eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="extasy"
+#EXTINF:-1 tvg-name="extasy" group-title="其他频道",extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="erox"
+#EXTINF:-1 tvg-name="erox" group-title="其他频道",erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="live"
+#EXTINF:-1 tvg-name="live" group-title="其他频道",live
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="其他频道",Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
