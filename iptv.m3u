@@ -41,12 +41,14 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="日本公开赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",日本公开赛1号场地
-http://play.cbalive.weibisai.com/live/3948837985143061_AiHD.m3u8?txSecret=8ad995778515e4c4c3ab0b92bd62d976&txTime=687AD1F0
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="日本公开赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",日本公开赛2号场地
-http://play.cbalive.weibisai.com/live/3948838133053061_AiHD.m3u8?txSecret=47c744bd8cea1b2294bef5c374d9f455&txTime=687AC3E0
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="日本公开赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",日本公开赛3号场地
-http://play.cbalive.weibisai.com/live/3948837540839061_AiHD.m3u8?txSecret=9f86e1e2061636223bee75f01f392fa4&txTime=68797260
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
+http://play.cbalive.weibisai.com/live/3989468185621061_AiHD.m3u8?txSecret=7918c9c7427128020167a4b8d6d8f206&txTime=68AD3F50
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
+http://play.cbalive.weibisai.com/live/3989468390466061_AiHD.m3u8?txSecret=7c337475b82cc1a512fdcb484e77f1bf&txTime=68AD3F50
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
+http://play.cbalive.weibisai.com/live/3989469823299061_AiHD.m3u8?txSecret=52234aaa6862af34419f858d8bdd2752&txTime=68AD3F50
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
+http://play.cbalive.weibisai.com/live/3989471303730061_AiHD.m3u8?txSecret=e91863ded8a0a3e90fd4425736c244aa&txTime=68AD3F50
 #EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png",东森新闻
 
 #EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png",中天新闻
@@ -683,3 +685,4 @@ https://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
+
