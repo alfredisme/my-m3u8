@@ -36,7 +36,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
-http://play.cbalive.weibisai.com/live/3989474517286061_AiHD.m3u8?txSecret=48d07b1f7ef4279650069653edf2716e&txTime=68AFE250
+http://play.cbalive.weibisai.com/live/3989473782321061_AiHD.m3u8?txSecret=90f2e93c8a421fcab2e1af38ecee07c8&txTime=68AFE250
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
 http://play.cbalive.weibisai.com/live/3989474026174061_AiHD.m3u8?txSecret=b1c7762ae77ed23ca525fb1c445ac6e8&txTime=68AFE250
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
@@ -111,6 +111,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="其他频道" tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png",湖南金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+
 
 
 
