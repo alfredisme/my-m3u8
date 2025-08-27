@@ -42,7 +42,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
-http://play.cbalive.weibisai.com/live/3989474517286061_AiHD.m3u8?txSecret=48d07b1f7ef4279650069653edf2716e&txTime=68AFE250
+http://play.cbalive.weibisai.com/live/3989473782321061_AiHD.m3u8?txSecret=90f2e93c8a421fcab2e1af38ecee07c8&txTime=68AFE250
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
 http://play.cbalive.weibisai.com/live/3989474026174061_AiHD.m3u8?txSecret=b1c7762ae77ed23ca525fb1c445ac6e8&txTime=68AFE250
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
@@ -685,6 +685,7 @@ https://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
+
 
 
 
