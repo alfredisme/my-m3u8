@@ -42,13 +42,13 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
-http://play.cbalive.weibisai.com/live/3989482628023061_AiHD.m3u8?txSecret=1ebaa6b25615b2a806c81b33a1a94ef1&txTime=68B133D0
+http://play.cbalive.weibisai.com/live/3994117063474061_AiHD.m3u8?txSecret=f949da5bc45e1e0e622bc6846bd4df3a&txTime=68B19640
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
-http://play.cbalive.weibisai.com/live/3989482826233061_AiHD.m3u8?txSecret=339e30dbe7bc9424354deb747eef3741&txTime=68B133D0
+http://play.cbalive.weibisai.com/live/3994117935950061_AiHD.m3u8?txSecret=b95315652a5ee2a9e2152e30bb3b1106&txTime=68B19640
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
-http://play.cbalive.weibisai.com/live/3989483115384061_AiHD.m3u8?txSecret=4844fbfd95b4c479473cf79ba29024eb&txTime=68B133D0
+http://play.cbalive.weibisai.com/live/3994118115664061_AiHD.m3u8?txSecret=38915cd49a324884a2d2f5713946c3fd&txTime=68B19640
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
-http://play.cbalive.weibisai.com/live/3989483310109061_AiHD.m3u8?txSecret=7847450c51baca494b9b884b4c54ae40&txTime=68B133D0
+http://play.cbalive.weibisai.com/live/3994118444258061_AiHD.m3u8?txSecret=9eb995b0f1196bf85dfbc6e7ccba5206&txTime=68B19640
 #EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png",东森新闻
 
 #EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png",中天新闻
@@ -685,6 +685,7 @@ https://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
+
 
 
 
