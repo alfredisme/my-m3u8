@@ -36,11 +36,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",香港公开赛1号场地
-http://play.cbalive.weibisai.com/live/4000629344116061_AiHD.m3u8?txSecret=53c596cb6d394372284591ec48ee1251&txTime=68C202F0
+http://play.cbalive.weibisai.com/live/4000630330586061_AiHD.m3u8?txSecret=41b9d1e5266b3b165302e72978628e8c&txTime=68C35470
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",香港公开赛2号场地
-http://play.cbalive.weibisai.com/live/4000629499465061_AiHD.m3u8?txSecret=3fe099e9e2cdc2b2887163e56cb0c19b&txTime=68C202F0
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
-
+http://play.cbalive.weibisai.com/live/4000630499241061_AiHD.m3u8?txSecret=7a9b3387b3ba816c4c1b52e14f87afa5&txTime=68C35470
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",香港公开赛3号场地
+http://play.cbalive.weibisai.com/live/4000630753953061_AiHD.m3u8?txSecret=a2b36031149c906f37349210d147dd6c&txTime=68C35470
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
 
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
@@ -641,6 +641,7 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Romance
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+
 
 
 
