@@ -36,9 +36,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",中国大师赛1号场地
-http://play.cbalive.weibisai.com/live/4006065303114061_AiHD.m3u8?txSecret=8d426e6df2905b0f5a59143ab2bdd68d&txTime=68CDEE80
+http://play.cbalive.weibisai.com/live/4012727497373061_AiSD.m3u8?txSecret=3d2a1cfb99592b19ad940527268f2bbd&txTime=68CE26C0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",中国大师赛2号场地
-http://play.cbalive.weibisai.com/live/4006065454946061_AiHD.m3u8?txSecret=713a3b1d851cb6f2b889d6b5aeed7ec9&txTime=68CDEE80
+http://play.cbalive.weibisai.com/live/4012727667111061_AiHD.m3u8?txSecret=32ec7da7e121120a27e009741b6b8dea&txTime=68CE26C0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",香港公开赛3号场地
 
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
@@ -641,6 +641,7 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Romance
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+
 
 
 
