@@ -36,13 +36,13 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="羽超1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛1号场地
-http://play.cbalive.weibisai.com/live/4149257242188061_AiHD.m3u8?txSecret=66fb0ce37b24c1e1e08a5e9e9b5af605&txTime=69A93800
+http://play.cbalive.weibisai.com/live/4149258725837061_AiHD.m3u8?txSecret=a1558c2eb5b6e5dd8c75e0b357c878cc&txTime=69AA8980
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="羽超2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛2号场地
-http://play.cbalive.weibisai.com/live/4149257858051061_AiHD.m3u8?txSecret=914fe4070d3e1946cd5d776818c970cc&txTime=69A93800
+http://play.cbalive.weibisai.com/live/4149258918991061_AiHD.m3u8?txSecret=b08dfe21abedc61fc0bd736eef6bac31&txTime=69AA8980
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="韩国公开赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛3号场地
-http://play.cbalive.weibisai.com/live/4149258047774061_AiHD.m3u8?txSecret=d2546ee509fa2d8f3248e7c0e046fb2c&txTime=69A93800
+http://play.cbalive.weibisai.com/live/4149259130763061_AiHD.m3u8?txSecret=832962d600ade1341410b953bbcbd4b0&txTime=69AA8980
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛4号场地
-http://play.cbalive.weibisai.com/live/4149258402640061_AiHD.m3u8?txSecret=46c1b7e7d11be635c6c6e938f743da9b&txTime=69A93800
+http://play.cbalive.weibisai.com/live/4149259387604061_AiHD.m3u8?txSecret=8f0a56c620666fad0a876433da26d9ac&txTime=69AA8980
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
@@ -647,6 +647,7 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Romance
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+
 
 
 
