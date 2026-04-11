@@ -36,7 +36,7 @@ http://zczb.aylzline.top:8899/rtp/225.1.2.221:11440
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://zczb.aylzline.top:8899/rtp/225.1.2.53:10312
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛1号场地
-http://play.cbalive.weibisai.com/live/4163951486804061_AiHD.m3u8?txSecret=99b83749d0056a03d52d8390e4a8393a&txTime=69DAE080
+http://play.cbalive.weibisai.com/live/4163951672724061_AiHD.m3u8?txSecret=c04b6e6c48eab0450ccecd06ba217e0a&txTime=69DB42F0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛2号场地
 http://play.cbalive.weibisai.com/live/4163951178888061_AiHD.m3u8?txSecret=63a4d01bb91cb3f02297bb993072eb66&txTime=69D99D10
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛3号场地
