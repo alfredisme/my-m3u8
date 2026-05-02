@@ -35,10 +35,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8$LR•IPV6『线路1』
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="羽超1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛1号场地
-http://1303027007.vod2.myqcloud.com/6ab54cb9vodcq1303027007/783262045145403719406578712/playlist_eof.m3u8?t=69af124a&exper=&rlimit=3&us=37064863&sign=149f5e5940857ab26c33b9cd624666f6
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="羽超2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛2号场地
-http://play.cbalive.weibisai.com/live/4149260242555061_AiHD.m3u8?txSecret=8f1fdf52b998d6ce06c63d733843ea9b&txTime=69ABCCF0
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="汤杯1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",汤杯半决赛1号场地
+http://play.cbalive.weibisai.com/live/4187471211996061_AiHD.m3u8?txSecret=1ac5fc362fc1d9e890ca998bd8ea2da2&txTime=69F6E460
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="汤杯2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",汤杯半决赛2号场地
+http://play.cbalive.weibisai.com/live/4207118587280061_AiHD.m3u8?txSecret=408a87424e1da976709c91f40efc8598&txTime=69F6E460
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="韩国公开赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛3号场地
 http://play.cbalive.weibisai.com/live/4149259130763061_AiHD.m3u8?txSecret=832962d600ade1341410b953bbcbd4b0&txTime=69AA8980
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",全英公开赛4号场地
