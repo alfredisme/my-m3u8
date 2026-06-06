@@ -42,9 +42,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="印尼公开赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",印尼公开赛1号场地
-http://play.cbalive.weibisai.com/live/4236496789652061_AiHD.m3u8?txSecret=ddc8e3840027704b4469b0da90f2e086&txTime=6A239B40
+http://play.cbalive.weibisai.com/live/4216699040174061_AiHD.m3u8?txSecret=fcf36bfb84222b7308ee656ee8287714&txTime=6A24DEB0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="印尼公开赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",印尼公开赛2号场地
-http://play.cbalive.weibisai.com/live/4236496938623061_AiHD.m3u8?txSecret=e5c4748340e0d3d4f7f65a732fa5950f&txTime=6A239B40
+
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="印尼公开赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",印尼公开赛3号场地
 
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
