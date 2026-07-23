@@ -42,11 +42,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="中国公开赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",中国公开赛1号场地
-http://play.cbalive.weibisai.com/live/4271153287374061_AiHD.m3u8?txSecret=157f8b26dd0f594b817166d24ed0d6ae&txTime=6A613D60
+http://play.cbalive.weibisai.com/live/4271153749260061_AiHD.m3u8?txSecret=26f00d1101d87f15584b123ebee55d96&txTime=6A628EE0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="中国公开赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",中国公开赛2号场地
-http://play.cbalive.weibisai.com/live/4271153417454061_AiHD.m3u8?txSecret=05f6acde1187b82eefd76eb0598bdc12&txTime=6A613D60
+http://play.cbalive.weibisai.com/live/4271153921943061_AiHD.m3u8?txSecret=d672dfaad899be973d51a0cad67585cf&txTime=6A628EE0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="中国公开赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",中国公开赛3号场地
-http://play.cbalive.weibisai.com/live/4271153525847061_AiHD.m3u8?txSecret=4322cda400b57348c9cc2825cf89a935&txTime=6A613D60
+http://play.cbalive.weibisai.com/live/4271154076327061_AiHD.m3u8?txSecret=350606700653b09dc77a2faefc15d3b6&txTime=6A628EE0
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
 
 #EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
