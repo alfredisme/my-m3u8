@@ -24,16 +24,27 @@ http://168250.xyz:1111/rtp/239.5.1.10:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
 http://168250.xyz:1111/rtp/239.5.1.137:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
-
+http://168250.xyz:1111/rtp/239.5.1.11:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
-
+http://168250.xyz:1111/rtp/239.5.1.138:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
-
+http://168250.xyz:1111/rtp/239.5.1.12:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
-
+http://168250.xyz:1111/rtp/239.5.1.139:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
-
+http://168250.xyz:1111/rtp/239.5.1.146:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+http://168250.xyz:1111/rtp/239.5.1.140:5000
+#EXTINF:-1 group-title="央视频道" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
+
+#EXTINF:-1 group-title="央视频道" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",世界地理
+
+#EXTINF:-1 group-title="央视频道" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
+
+#EXTINF:-1 group-title="央视频道" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
+
+
+
 
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛1号场地
 http://play.cbalive.weibisai.com/live/4163951868946061_AiHD.m3u8?txSecret=3dd17884d15fc522515f38ae610cfb36&txTime=69DC6A40
