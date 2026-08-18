@@ -41,10 +41,19 @@ http://168250.xyz:1111/rtp/239.5.1.140:5000
 
 #EXTINF:-1 group-title="央视频道" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
 
-#EXTINF:-1 group-title="央视频道" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
+#EXTINF:-1 group-title="央视频道" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
 
+#EXTINF:-1 group-title="央视频道" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",兵器科技
 
+#EXTINF:-1 group-title="央视频道" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
 
+#EXTINF:-1 group-title="央视频道" tvg-name="高网频道" tvg-logo="https://live.fanmingming.com/tv/高网频道.png",高网频道
+
+#EXTINF:-1 group-title="央视频道" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
+
+#EXTINF:-1 group-title="央视频道" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚
+
+#EXTINF:-1 group-title="央视频道" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
 
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛1号场地
 http://play.cbalive.weibisai.com/live/4163951868946061_AiHD.m3u8?txSecret=3dd17884d15fc522515f38ae610cfb36&txTime=69DC6A40
