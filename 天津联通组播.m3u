@@ -36,33 +36,35 @@ http://168250.xyz:1111/rtp/239.5.1.146:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://168250.xyz:1111/rtp/239.5.1.140:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
-
+http://168250.xyz:1111/rtp/239.5.1.128:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",世界地理
-
+http://168250.xyz:1111/rtp/239.5.1.124:500
 #EXTINF:-1 group-title="央视频道" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
-
+http://168250.xyz:1111/rtp/239.5.1.121:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
-
+http://168250.xyz:1111/rtp/239.5.1.123:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",兵器科技
-
+http://168250.xyz:1111/rtp/239.5.1.125:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
-
+http://168250.xyz:1111/rtp/239.5.1.119:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="高网频道" tvg-logo="https://live.fanmingming.com/tv/高网频道.png",高网频道
-
+http://168250.xyz:1111/rtp/239.5.1.120:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
-
+http://168250.xyz:1111/rtp/239.5.1.122:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚
-
+http://168250.xyz:1111/rtp/239.5.1.127:5000
 #EXTINF:-1 group-title="央视频道" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
-
+http://168250.xyz:1111/rtp/239.5.1.130:5000
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="精彩赛事" tvg-logo="https://live.fanmingming.com/tv/BWF.png",精彩赛事
+http://168250.xyz:1111/rtp/239.5.1.66:5000
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛1号场地
-http://play.cbalive.weibisai.com/live/4163951868946061_AiHD.m3u8?txSecret=3dd17884d15fc522515f38ae610cfb36&txTime=69DC6A40
+
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛2号场地
-http://play.cbalive.weibisai.com/live/4163951178888061_AiHD.m3u8?txSecret=63a4d01bb91cb3f02297bb993072eb66&txTime=69D99D10
+
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛3号场地
-http://play.cbalive.weibisai.com/live/4163950510828061_AiHD.m3u8?txSecret=d635eb12cd5b3e2f60259a5b89948901&txTime=69D84B90
+
 #EXTINF:-1 group-title="羽毛球频道" tvg-name="宁波亚锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",宁波亚锦赛4号场地
-http://play.cbalive.weibisai.com/live/4163950671381061_AiHD.m3u8?txSecret=d0bd6cb9519a0c4c47c1beeaa9919600&txTime=69D84B90
+
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
 
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
